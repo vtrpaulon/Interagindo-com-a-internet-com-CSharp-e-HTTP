@@ -1,0 +1,15 @@
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/bin/Debug/netcoreapp6.0/Program
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/bin/Debug/netcoreapp6.0/Program.deps.json
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/bin/Debug/netcoreapp6.0/Program.runtimeconfig.json
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/bin/Debug/netcoreapp6.0/Program.dll
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/bin/Debug/netcoreapp6.0/Program.pdb
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.csproj.AssemblyReference.cache
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.AssemblyInfoInputs.cache
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.AssemblyInfo.cs
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.csproj.CoreCompileInputs.cache
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.dll
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/refint/Program.dll
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.pdb
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/Program.genruntimeconfig.cache
+/workspaces/Interagindo-com-a-internet-com-CSharp-e-HTTP/obj/Debug/netcoreapp6.0/ref/Program.dll
